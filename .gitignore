@@ -1,0 +1,43 @@
+dist
+/dist
+node_modules
+/node_modules
+uploads/*.jpg
+uploads/*.png
+
+
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+frontend/node_modules/**
+frontend/build/**
+package-lock.json
+yarn-lock.json
+frontend/package-lock.json
+frontend/yarn-lock.json
+frontend/main.js
+frontend/.parcel-cache/6bac12b34a5035bf
+frontend/.parcel-cache/a6c49560dea3583b
+
+frontend/.parcel-cache/data.mdb
+frontend/.parcel-cache/dd9070c1173fddc5
+frontend/.parcel-cache/fb1ea35670166a32.txt
+frontend/.parcel-cache/lock.mdb
+frontend/.parcel-cache/cf6c996cba5a43d5
